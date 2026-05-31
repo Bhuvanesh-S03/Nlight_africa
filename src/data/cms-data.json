@@ -1,0 +1,889 @@
+{
+  "companyInfo": {
+    "name": "The Royal Dreams",
+    "headline": "Crafting Fragrance That Becomes Memory",
+    "subheading": "Premium incense, spiritual products, and home fragrances crafted with elegance, tradition, and global premium quality.",
+    "whatsappNumber": "+2348035221088",
+    "email": "hello@theroyaldreams.com",
+    "consumerEmail": "hello@theroyaldreams.com",
+    "address": "Lagos, Nigeria / New Delhi, India",
+    "established": "2015",
+    "countriesServed": "15+",
+    "productVarieties": "40+",
+    "yearsOfExpertise": "12",
+    "certifications": [
+      "NAFDAC Registered",
+      "ISO 9001:2015 Certified",
+      "Premium customer Standard Approved",
+      "100% Eco-Conscious Production"
+    ]
+  },
+  "categories": [
+    {
+      "id": "incense-sticks",
+      "name": "Incense Sticks",
+      "slug": "incense-sticks",
+      "description": "Luxurious aromatic agarbatti crafted to soothen the mind, elevate prayers, and create sensory sanctuaries.",
+      "image": "/images/category_incense.jpg"
+    },
+    {
+      "id": "mosquito-repellent",
+      "name": "Mosquito Repellent",
+      "slug": "mosquito-repellent",
+      "description": "High-efficiency natural mosquito protection with aromatic wood powders and natural citronella oil.",
+      "image": "/images/category_repellent.jpg"
+    },
+    {
+      "id": "cup-incense",
+      "name": "Cup Incense",
+      "slug": "cup-incense",
+      "description": "Sacred sambrani cup dhoop that releases intense, dense purification smoke using natural guggul and loban.",
+      "image": "/images/category_cup.jpg"
+    },
+    {
+      "id": "spiritual-products",
+      "name": "Spiritual Products",
+      "slug": "spiritual-products",
+      "description": "Sacred herbs, purification oils, and ritual chalks curated for energy alignment, cleansing, and meditation.",
+      "image": "/images/category_spiritual.jpg"
+    },
+    {
+      "id": "customer-products",
+      "name": "customer Products",
+      "slug": "customer-products",
+      "description": "multi-pack-packed delivery-ready incense and spiritual products tailored for global markets with high-grade packaging.",
+      "image": "/images/category_customer.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": "royal-dreams-100",
+      "categoryId": "incense-sticks",
+      "name": "Royal Dreams Premium (100 Sticks + Free Perfume)",
+      "slug": "royal-dreams-premium-100",
+      "description": "Our flagship incense bundle. A luxurious box of 100 long-burning agarbatti sticks infused with royal sandalwood and golden saffron, packaged with an exclusive, complimentary home fragrance oil perfume spray to double the sensory experience.",
+      "scentProfile": "Rich Sandalwood, Saffron, Honey",
+      "scentNotes": {
+        "top": "Warm Wild Honey",
+        "middle": "Royal Saffron & Amber",
+        "base": "Sacred White Sandalwood"
+      },
+      "burningTime": "45 - 50 mins",
+      "features": [
+        "100 hand-rolled premium sticks",
+        "Free pocket perfume oil spray inside",
+        "Triple-strength fragrance locking",
+        "Zero toxic charcoal powders"
+      ],
+      "shippingDetails": "Carton of 48 boxes. customer ready with certified humidity-proof packaging.",
+      "moods": [
+        "Luxury",
+        "Relaxation",
+        "Freshness"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/INCENCE 100 STICKES BOX TYPE/100 STICK - FINAL ARTWORKS - REAL STOLE.pdf"
+    },
+    {
+      "id": "royal-dreams-10",
+      "categoryId": "incense-sticks",
+      "name": "Royal Dreams Classic (10 Sticks)",
+      "slug": "royal-dreams-classic-10",
+      "description": "An elegant, travel-ready pouch containing 10 premium Royal Dreams sticks. Crafted with the exact same gold-standard fragrance formulation of Sandalwood and Saffron, perfect for daily meditation sessions.",
+      "scentProfile": "Sandalwood & Saffron Gold",
+      "scentNotes": {
+        "top": "Spiced Amber",
+        "middle": "Kashmiri Saffron",
+        "base": "Aged Mysore Sandalwood"
+      },
+      "burningTime": "45 mins",
+      "features": [
+        "10 premium sticks",
+        "Zip-lock fragrance preservation pouch",
+        "Earthy and calming"
+      ],
+      "shippingDetails": "Outer display bundle of 50 pouches. Excellent retail impulse-buy item.",
+      "moods": [
+        "Relaxation",
+        "Meditation"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/DUA & JANNNAT INCENSE/DUA & JANNNAT 10 STICKS.pdf"
+    },
+    {
+      "id": "real-stole",
+      "categoryId": "incense-sticks",
+      "name": "Real Stole Luxury Incense",
+      "slug": "real-stole-luxury",
+      "description": "An intense, premium incense crafted for those who adore deep, earthy fragrance profiles. Infused with natural vetiver roots, oakmoss, and double-distilled patchouli oils to bring a cinematic woodland ambience to your home.",
+      "scentProfile": "Earthy Vetiver, Oakmoss, Patchouli",
+      "scentNotes": {
+        "top": "Crushed Green Leaves",
+        "middle": "Patchouli & Damp Earth",
+        "base": "Oakmoss & Dark Woods"
+      },
+      "burningTime": "45 mins",
+      "features": [
+        "Earthy forest notes",
+        "Handcrafted in small batches",
+        "Soothing and grounding"
+      ],
+      "shippingDetails": "Standard shipping weight 12kg per case. Box artwork certified under Premium customer standard.",
+      "moods": [
+        "Meditation",
+        "Relaxation"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/INCENCE 100 STICKES BOX TYPE/100 STICK - FINAL ARTWORKS - REAL STOLE.pdf"
+    },
+    {
+      "id": "sai-baba",
+      "categoryId": "incense-sticks",
+      "name": "Sai Baba Temple Resin Incense",
+      "slug": "sai-baba-temple-incense",
+      "description": "Inspired by the divine, timeless aroma of Indian holy sanctuaries. Formulated with sacred temple resins, honey, and high-purity loban to facilitate profound spiritual prayer, chanting, and inner peacefulness.",
+      "scentProfile": "Sacred Resins, Temple Incense, Sweet Musk",
+      "scentNotes": {
+        "top": "Sweet Guggul & Honey",
+        "middle": "Champa Flower & Benzoin",
+        "base": "Sacred Resins & Amber"
+      },
+      "burningTime": "50 mins",
+      "features": [
+        "Authentic temple recipe",
+        "Ideal for deep prayers and puja",
+        "Purifies negative air energy"
+      ],
+      "shippingDetails": "Available in premium inner cartons. Customized labeling available for global customer buyers.",
+      "moods": [
+        "Prayer",
+        "Meditation"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/INCENCE 100 STICKES BOX TYPE/100 STICK - FINAL ARTWORKS - SAI BABA.pdf"
+    },
+    {
+      "id": "sri-krishna",
+      "categoryId": "incense-sticks",
+      "name": "Sri Krishna Sacred Butterscotch & Tulsi",
+      "slug": "sri-krishna-sacred",
+      "description": "An exquisite sweet-aroma formulation blending holy Tulsi (basil) leaves with a luxurious butterscotch and white sandalwood fragrance. Creates an atmosphere of joy, devotional bliss, and positive vibration.",
+      "scentProfile": "Sweet Butterscotch, Tulsi, White Sandalwood",
+      "scentNotes": {
+        "top": "Butterscotch Cream & Vanilla",
+        "middle": "Sacred Basil (Tulsi)",
+        "base": "Smooth White Sandalwood"
+      },
+      "burningTime": "45 mins",
+      "features": [
+        "Unique sweet-devotional aroma",
+        "High percentage of natural herbal binders",
+        "Relieves stress and anxieties"
+      ],
+      "shippingDetails": "Carton of 48. High-volume customer discounts apply for Middle East and African markets.",
+      "moods": [
+        "Prayer",
+        "Luxury",
+        "Freshness"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/INCENCE 100 STICKES BOX TYPE/100 STICK - FINAL ARTWORKS - SRI KRISNA.pdf"
+    },
+    {
+      "id": "taj-mahal",
+      "categoryId": "incense-sticks",
+      "name": "Taj Mahal Royal Jasmine & Musk",
+      "slug": "taj-mahal-royal",
+      "description": "Celebrate the romance and visual majesty of the Taj Mahal. A highly refined floral-musk masterpiece combining freshly picked mogra jasmine flowers with warm, velvety white musk to evoke royal luxury and romance.",
+      "scentProfile": "Mogra Jasmine, Musk, Soft Amber",
+      "scentNotes": {
+        "top": "Fresh Jasmine Petals",
+        "middle": "Sweet Honeysuckle",
+        "base": "Velvet White Musk"
+      },
+      "burningTime": "48 mins",
+      "features": [
+        "Intense floral projection",
+        "Premium high-grade perfume oils",
+        "Calming, romantic sensory experience"
+      ],
+      "shippingDetails": "Artwork features premium gold embossing. Perfect for upscale luxury wellness boutiques.",
+      "moods": [
+        "Luxury",
+        "Relaxation"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/INCENCE 100 STICKES BOX TYPE/100 STICK - FINAL ARTWORKS - TAJ MAHAL.pdf"
+    },
+    {
+      "id": "pineapple-incense",
+      "categoryId": "incense-sticks",
+      "name": "Pineapple Tropical Summer Incense",
+      "slug": "pineapple-tropical-summer",
+      "description": "A lighthearted, energizing fragrance option. Packed with the vibrant, sun-drenched scent of tropical pineapples, sweet orange blossoms, and a hint of soft vanilla wood to cleanse and deodorize any space.",
+      "scentProfile": "Tropical Pineapple, Sweet Citrus, Vanilla Wood",
+      "scentNotes": {
+        "top": "Fresh Golden Pineapple",
+        "middle": "Sun-Kissed Orange Blossom",
+        "base": "Creamy Vanilla Wood"
+      },
+      "burningTime": "40 mins",
+      "features": [
+        "Uplifting tropical notes",
+        "Excellent for odor elimination",
+        "Boosts daily focus and energy"
+      ],
+      "shippingDetails": "Extremely popular in West African household markets. Packed in multi-pack display units.",
+      "moods": [
+        "Freshness",
+        "Relaxation"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/DUA & JANNNAT INCENSE/DUA & JANNNAT 10 STICKS.pdf"
+    },
+    {
+      "id": "noor-al-janna",
+      "categoryId": "incense-sticks",
+      "name": "Noor AL-Janna Premium (20 Sticks)",
+      "slug": "noor-al-janna-20",
+      "description": "Translated as 'The Light of Heaven'. A highly sought-after, elite incense blend combining rare Cambodian Oud oils, sweet damask rose petals, and deep royal amber. It offers a majestic, heavy fragrance suitable for royal settings and deep meditation.",
+      "scentProfile": "Exotic Oud, Damask Rose, Royal Amber",
+      "scentNotes": {
+        "top": "Damask Rose & Aldehydes",
+        "middle": "Exotic Agarwood (Oud)",
+        "base": "Warm Golden Amber"
+      },
+      "burningTime": "50 mins",
+      "features": [
+        "Exquisite Arabian Oud blend",
+        "Heavy, long-lingering aroma",
+        "Elegant sliding-pack packaging"
+      ],
+      "shippingDetails": "Part of the Royal Dreams Chain Pack series. Standard shipping package consists of master cartons of 12 display packs.",
+      "moods": [
+        "Luxury",
+        "Prayer",
+        "Meditation"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/ROYAL DREAMS INCENCE CHAIN PACK/ROYAL - CHAIN PACKS - NOOR AL-JANNA - 20 SICKS.pdf"
+    },
+    {
+      "id": "noor-al-aroma",
+      "categoryId": "incense-sticks",
+      "name": "Noor AL-Aroma Herbal Oud (20 Sticks)",
+      "slug": "noor-al-aroma-20",
+      "description": "A comforting, deeply rich aromatic incense. It blends dry desert woods, traditional frankincense, and myrrh resins to create a highly purification-friendly, meditative smoke that settles into a soft sandalwood base.",
+      "scentProfile": "Frankincense, Myrrh, Sandalwood",
+      "scentNotes": {
+        "top": "Aromatic Myrrh",
+        "middle": "Sacred Frankincense",
+        "base": "Smooth Mysore Sandalwood"
+      },
+      "burningTime": "45 mins",
+      "features": [
+        "100% natural resin base",
+        "Promotes respiratory comfort",
+        "Deep wood-smoke aroma"
+      ],
+      "shippingDetails": "Protected under multi-barrier foil packaging. Ready for global distribution.",
+      "moods": [
+        "Meditation",
+        "Prayer"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/ROYAL DREAMS INCENCE CHAIN PACK/ROYAL - CHAIN PACKS- NOOR AL-AROMA - 20 STICKS.pdf"
+    },
+    {
+      "id": "royal-lavender",
+      "categoryId": "incense-sticks",
+      "name": "Royal Lavender Soothing Incense",
+      "slug": "royal-lavender-20",
+      "description": "Unwind after a busy day. Infused with premium French lavender essential oil, wild sage, and soft cedarwood, this incense is specifically formulated to lower stress, clear the mind, and prepare the body for restful sleep.",
+      "scentProfile": "French Lavender, Sage, Cedarwood",
+      "scentNotes": {
+        "top": "Fresh Camphoraceous Lavender",
+        "middle": "Clary Sage & Herbals",
+        "base": "Calming White Cedarwood"
+      },
+      "burningTime": "45 mins",
+      "features": [
+        "Contains real French Lavender oil",
+        "Promotes rest and sleep",
+        "Soft, elegant herbaceous smoke"
+      ],
+      "shippingDetails": "customer catalog available for import. Fast shipping and high delivery capacity.",
+      "moods": [
+        "Relaxation",
+        "Meditation"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/ROYAL DREAMS INCENCE CHAIN PACK/ROYAL - CHAIN PACKS - ROYAL LAVENDER 20 STICKS.pdf"
+    },
+    {
+      "id": "royal-rose",
+      "categoryId": "incense-sticks",
+      "name": "Royal Rose Velvet Incense",
+      "slug": "royal-rose-20",
+      "description": "Indulge in the eternal romantic scent of fresh rose petals. Formulated with organic red rose petals, geranium oil, and a soft base of warm vanilla bean and amber. Fills the room with a velvet-soft, luxury floral atmosphere.",
+      "scentProfile": "Velvet Roses, Geranium, Warm Vanilla",
+      "scentNotes": {
+        "top": "Crushed Rose Petals",
+        "middle": "Egyptian Geranium",
+        "base": "Vanilla Orchid & Musk"
+      },
+      "burningTime": "45 mins",
+      "features": [
+        "Velvet floral projection",
+        "Infused with therapeutic rose absolute",
+        "Romantic and comforting"
+      ],
+      "shippingDetails": "Moisture-barrier inner packaging ensures zero scent loss in delivery customers.",
+      "moods": [
+        "Luxury",
+        "Relaxation"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/ROYAL DREAMS INCENCE CHAIN PACK/ROYAL - CHAIN PACKS - ROYAL ROSE 20 STICKS.pdf"
+    },
+    {
+      "id": "royal-musk",
+      "categoryId": "incense-sticks",
+      "name": "Royal Musk 3-in-1 Premium (70 Sticks)",
+      "slug": "royal-musk-70",
+      "description": "An incredibly generous package containing 70 sticks. It contains a curated trilogy of musk formulations: white cotton musk for freshness, dark forest musk for earthy depth, and golden amber musk for royal warmth.",
+      "scentProfile": "Trilogy Musk, Cotton Musk, Amber Musk",
+      "scentNotes": {
+        "top": "Clean White Cotton Musk",
+        "middle": "Sacred Indian Champa Musk",
+        "base": "Warm Golden Amber Musk"
+      },
+      "burningTime": "45 mins",
+      "features": [
+        "70 sticks per package",
+        "3 unique musk styles in one pack",
+        "Rich, long-lasting aroma projection"
+      ],
+      "shippingDetails": "Designed for maximum cost-to-value ratio. Extremely successful across West African distributor networks.",
+      "moods": [
+        "Luxury",
+        "Freshness",
+        "Relaxation"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/ROYAL DREAMS INCENCE CHAIN PACK/ROYAL - CHAIN PACKS - MUSK 70 STICKS.pdf"
+    },
+    {
+      "id": "royal-fruits",
+      "categoryId": "incense-sticks",
+      "name": "Royal Fruits 2-in-1 Dual Pack (40 Sticks)",
+      "slug": "royal-fruits-40",
+      "description": "A delightful double-aroma compilation. Packs 20 sticks of sun-kissed green apple and 20 sticks of juicy peach and vanilla orchid. Great for creating a fresh, fruity, energetic environment in kitchens and living rooms.",
+      "scentProfile": "Green Apple, Sweet Peach, Vanilla Orchid",
+      "scentNotes": {
+        "top": "Crisp Green Apple",
+        "middle": "Ripe Georgia Peach",
+        "base": "Warm Vanilla Orchid"
+      },
+      "burningTime": "42 mins",
+      "features": [
+        "40 premium dual sticks",
+        "Green Apple + Peach dual packs",
+        "Fresh, sweet, odor-destroying smoke"
+      ],
+      "shippingDetails": "Eye-catching colorful chain-pack presentation. Fast moving retail stock.",
+      "moods": [
+        "Freshness",
+        "Relaxation"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/ROYAL DREAMS INCENCE CHAIN PACK/ROYAL - CHAIN PACKS - ROYAL FRUITS -50 STICKS.pdf"
+    },
+    {
+      "id": "powermax-chain-pack",
+      "categoryId": "mosquito-repellent",
+      "name": "Powermax Insecticide Stick (Chain Pack)",
+      "slug": "powermax-chain-pack",
+      "description": "Your ultimate, cost-effective defense against mosquitoes and malaria vectors. Formulated with natural pyrethrins and premium citronella herbs, these sticks ignite easily to create a reliable insect-barrier zone while projecting a pleasant citrus scent.",
+      "scentProfile": "Citronella, Eucalyptus, Pine Wood",
+      "scentNotes": {
+        "top": "Zesty Lemongrass",
+        "middle": "Eucalyptus Radiata",
+        "base": "Earthy Pine Wood"
+      },
+      "burningTime": "60 mins",
+      "features": [
+        "100% effective mosquito banishment",
+        "Chain pack configuration for retail convenience",
+        "Safe for general indoor/outdoor ventilation"
+      ],
+      "shippingDetails": "Carton contains 100 chain packs. Standard customer delivery volume 2400 cartons.",
+      "moods": [
+        "Freshness"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/POWERMAX INSECTICIDE STICK MOSQUITO REPELLANT/POWER MAX CHAIN PACKS  20-4-26.pdf"
+    },
+    {
+      "id": "powermax-zip-lock",
+      "categoryId": "mosquito-repellent",
+      "name": "Powermax Insecticide Stick (Zip Lock Pouch)",
+      "slug": "powermax-zip-lock",
+      "description": "Heavy-duty outdoor and home mosquito protection inside a high-barrier, reusable Zip-Lock preservation pouch. The ziplock ensures the sticks retain their natural essential oils and active ingredients indefinitely even in highly humid tropical environments.",
+      "scentProfile": "Citronella, Soothing Herbs, Wild Mint",
+      "scentNotes": {
+        "top": "Wild Spearmint",
+        "middle": "Natural Citronella Oil",
+        "base": "Powdered Cedar Wood"
+      },
+      "burningTime": "60 mins",
+      "features": [
+        "Premium heavy-duty sticks",
+        "Reusable Zip-Lock moisture barrier",
+        "Aromatic and insecticidal"
+      ],
+      "shippingDetails": "customer case weight 18kg. Standard international certifications for insecticide imports.",
+      "moods": [
+        "Freshness"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/POWERMAX INSECTICIDE STICK MOSQUITO REPELLANT/ROYAL ZIPLOCK 105MM X 275MM - 500 kgs.pdf"
+    },
+    {
+      "id": "powermax-cup",
+      "categoryId": "mosquito-repellent",
+      "name": "Powermax Insecticide Mosquito Repellent Cup",
+      "slug": "powermax-repellent-cup",
+      "description": "A revolutionary insect defense concept. A dense dhoop cup compressed with insecticide wood powders, natural pyrethrins, and camphor. Ignites to release a highly concentrated insect-cleansing smoke screen, clearing rooms instantly.",
+      "scentProfile": "Concentrated Camphor, Citronella, Eucalyptus",
+      "scentNotes": {
+        "top": "Crushed Camphor",
+        "middle": "Citronella Grass",
+        "base": "Smoky Charcoal & Sandalwood"
+      },
+      "burningTime": "30 mins",
+      "features": [
+        "Instant vector-cleansing action",
+        "Stable self-standing cup format",
+        "Highly recommended for highly infested areas"
+      ],
+      "shippingDetails": "Each pack contains 12 cups with metal burner plates. Excellent customer customer margins.",
+      "moods": [
+        "Freshness"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/POWERMAX INSECT KILLING CUP.pdf"
+    },
+    {
+      "id": "cup-holy-ure",
+      "categoryId": "cup-incense",
+      "name": "Holly Ure Premium Cup Incense",
+      "slug": "holly-ure-cup",
+      "description": "An authentic sambrani charcoal cup incense filled with high-grade Holly resins and pure loban. Ignites to release a thick, pristine, holy white smoke that purifies rooms, clears spiritual blockages, and deepens concentration.",
+      "scentProfile": "Loban, Sacred Resins, Myrrh",
+      "scentNotes": {
+        "top": "Sacred Frankincense Resin",
+        "middle": "Aged Benzoin (Loban)",
+        "base": "Deep Earthy Myrrh"
+      },
+      "burningTime": "25 - 30 mins",
+      "features": [
+        "High-density purification smoke",
+        "Easy to burn with included plate",
+        "100% natural charcoal and resin"
+      ],
+      "shippingDetails": "customer carton contains 36 packs. Certified safe for international shipping with zero hazardous classifications.",
+      "moods": [
+        "Prayer",
+        "Meditation"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/Premium Cup Incense/CUP_INCENSE_-_HOLY_URE_FINAL[1].pdf"
+    },
+    {
+      "id": "cup-makka-madina",
+      "categoryId": "cup-incense",
+      "name": "Makka Madina Sacred Cup Incense",
+      "slug": "makka-madina-cup",
+      "description": "Evoke the holy aura of sacred pilgrim sites. This charcoal dhoop cup is densely packed with original black stone musk, pure guggul, amber, and traditional Arabic wood resins to establish a deeply sacred, meditative ambiance.",
+      "scentProfile": "Black Musk, Amber, Guggul",
+      "scentNotes": {
+        "top": "Sacred Amber & Oud",
+        "middle": "Original Guggul Resin",
+        "base": "Original Black Stone Musk"
+      },
+      "burningTime": "30 mins",
+      "features": [
+        "Sacred Arabian prayer blend",
+        "Creates dense, majestic purification clouds",
+        "Long lingering resinous base"
+      ],
+      "shippingDetails": "Highly requested across customer markets in West Africa and North Africa. High customer capacity.",
+      "moods": [
+        "Prayer",
+        "Meditation",
+        "Luxury"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/Premium Cup Incense/CUP_INCENSE_-_MAKKA_MADINA_FINAL[1].pdf"
+    },
+    {
+      "id": "cup-peacock",
+      "categoryId": "cup-incense",
+      "name": "Peacock Royal Sambrani Cup",
+      "slug": "peacock-royal-cup",
+      "description": "Formulated for royal elegance and deep sensory peace. Peacock cups utilize a centuries-old sambrani resin recipe, burning beautifully to clear bad odors, freshen the air, and promote a relaxed home sanctuary.",
+      "scentProfile": "Traditional Sambrani, Honey, Benzoin",
+      "scentNotes": {
+        "top": "Crushed Benzoin Resins",
+        "middle": "Wild Floral Nectar",
+        "base": "Sweet Balsamic Woods"
+      },
+      "burningTime": "28 mins",
+      "features": [
+        "Classic Indian Sambrani scent",
+        "Ideal for daily home freshening",
+        "Soothes nervous tension"
+      ],
+      "shippingDetails": "Premium cardboard box with dynamic peacock graphic layout, perfect for premium supermarkets.",
+      "moods": [
+        "Relaxation",
+        "Luxury"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/Premium Cup Incense/CUP_INCENSE_-_PEACOCK_FINAL[1].pdf"
+    },
+    {
+      "id": "cup-radha-krishna",
+      "categoryId": "cup-incense",
+      "name": "Radha Krishna Sweet Sandal Cup",
+      "slug": "radha-krishna-cup",
+      "description": "A delightful devotional cup incense. Packed with sweet red sandalwood powder, holy sambrani, and fresh rose petals, creating an atmosphere of warmth, sweet joy, and loving devotional bliss.",
+      "scentProfile": "Sweet Sandalwood, Rose Petals, Loban",
+      "scentNotes": {
+        "top": "Red Rose Petals",
+        "middle": "Red Sandalwood Powder",
+        "base": "Warm Benzoin Resin"
+      },
+      "burningTime": "30 mins",
+      "features": [
+        "Sweet, sandalwood-dominant notes",
+        "Promotes heart chakra activation",
+        "100% natural incense materials"
+      ],
+      "shippingDetails": "Master case contains 72 packs. Secure palletized shipping globally.",
+      "moods": [
+        "Prayer",
+        "Meditation",
+        "Luxury"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/Premium Cup Incense/CUP_INCENSE_-_RADHA_KISNA_FINAL[1].pdf"
+    },
+    {
+      "id": "cup-sai-baba",
+      "categoryId": "cup-incense",
+      "name": "Sai Baba Devotional Cup",
+      "slug": "sai-baba-cup",
+      "description": "A highly spiritual purification dhoop cup containing sacred temple oils, loban, sambrani, and guggul. Fosters a divine presence, excellent for morning meditations, temple pujas, and home blessings.",
+      "scentProfile": "Sacred Temple Resins, Benzoin",
+      "scentNotes": {
+        "top": "Camphor & Cardamom Hints",
+        "middle": "Pure Sambrani Resin",
+        "base": "Earthy Temple Woods"
+      },
+      "burningTime": "28 mins",
+      "features": [
+        "Deeply spiritual temple aroma",
+        "Combats environmental pollutants",
+        "Calms the intellectual mind"
+      ],
+      "shippingDetails": "Artwork approved for retail internationally. Highly stable shelf-life.",
+      "moods": [
+        "Prayer",
+        "Meditation"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/Premium Cup Incense/CUP_INCENSE_-_SAI_BABA_FINAL[1].pdf"
+    },
+    {
+      "id": "cup-st-michael",
+      "categoryId": "cup-incense",
+      "name": "St Michael Archangel Protection Cup",
+      "slug": "st-michael-cup",
+      "description": "Named after the Archangel of Protection. Packed with sacred, heavy-cleansing frankincense tears, red copal, and crushed myrrh. Designed specifically for spiritual protection, negative energy banishing, and sanctifying homes.",
+      "scentProfile": "Frankincense, Red Copal, Spiritual Cleansing",
+      "scentNotes": {
+        "top": "Zesty Lemon Frankincense",
+        "middle": "Red Copal Resin Tears",
+        "base": "Heavy Smudged Myrrh"
+      },
+      "burningTime": "30 mins",
+      "features": [
+        "Maximum spiritual cleansing properties",
+        "Ideal for home protection blessings",
+        "Intense, solemn resinous smoke"
+      ],
+      "shippingDetails": "Extremely high demand in spiritual and religious boutique markets. Excellent customer margins.",
+      "moods": [
+        "Prayer",
+        "Meditation"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/Premium Cup Incense/CUP_INCENSE_-_ST_MICHAEL_FINAL[1].pdf"
+    },
+    {
+      "id": "chalk-powermax",
+      "categoryId": "spiritual-products",
+      "name": "Powermax Insect Killing Chalk",
+      "slug": "powermax-insect-chalk",
+      "description": "Highly effective insecticide chalk designed to draw thick protective barriers against crawling insects, ants, and cockroaches. Safe, easy to use, and provides long-lasting uptime protection around cabinets and entryways.",
+      "scentProfile": "Mild Camphor (Odourless Safe)",
+      "scentNotes": {
+        "top": "Odourless Safety Shield",
+        "middle": "Mild Essential Herbals",
+        "base": "Inert Mineral Base"
+      },
+      "burningTime": "N/A (Chalk Drawing)",
+      "features": [
+        "Fast-acting crawling insect termination",
+        "Long-lasting surface barrier up to 14 days",
+        "Safe, clean, low-dust formulation"
+      ],
+      "shippingDetails": "Shipped in compact display cartons containing 24 chalk boxes. Fast delivery turnover.",
+      "moods": [
+        "Freshness"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/POWERMAX CHALK.pdf"
+    },
+    {
+      "id": "spiritual-call-money",
+      "categoryId": "spiritual-products",
+      "name": "Call Money Spiritual Incense",
+      "slug": "call-money-spiritual",
+      "description": "A highly secret, traditional esoteric formulation blending fragrant luck-drawing roots, crushed cinnamon, clove oils, and gold-dust resins. Ignited to attract financial prosperity, business success, and rich client flow.",
+      "scentProfile": "Sweet Cinnamon, Clover, Luxury Resins",
+      "scentNotes": {
+        "top": "Crushed Clove & Allspice",
+        "middle": "Spiced Ceylon Cinnamon",
+        "base": "Sweet Benzoin & Golden Oak"
+      },
+      "burningTime": "45 mins",
+      "features": [
+        "Prosperity-attraction scent formulation",
+        "Infused with organic prosperity herbs",
+        "Great for shops and customer offices"
+      ],
+      "shippingDetails": "Large customer batches shipped directly from manufacturing hubs. Double-layered plastic wrappers protect scent.",
+      "moods": [
+        "Luxury",
+        "Prayer"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/SPRITUAL INCENSE/CALL MONEY.pdf"
+    },
+    {
+      "id": "spiritual-stop-evil",
+      "categoryId": "spiritual-products",
+      "name": "Stop Evil Negativity Banisher",
+      "slug": "stop-evil-banisher",
+      "description": "A potent banishing incense crafted with high-purity asafoetida resin, black pepper, white mustard, and sacred camphor. Designed to destroy negative eye energy, banish dark spiritual attachments, and seal your home aura.",
+      "scentProfile": "Pungent Camphor, Pepper, Banishment Resins",
+      "scentNotes": {
+        "top": "Pungent Pepper & Mint",
+        "middle": "Sacred White Camphor",
+        "base": "Mustard Resins & Earthy Soil"
+      },
+      "burningTime": "48 mins",
+      "features": [
+        "Heavy spiritual banishing properties",
+        "Cleanses stale environments instantly",
+        "Formulated under traditional ritual guidelines"
+      ],
+      "shippingDetails": "Highly requested across African spiritual networks. Secure packaging maintains potency.",
+      "moods": [
+        "Prayer",
+        "Meditation"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/SPRITUAL INCENSE/STOP EVIL.pdf"
+    },
+    {
+      "id": "spiritual-correction-big",
+      "categoryId": "spiritual-products",
+      "name": "Spiritual Correction Cleansing Incense (Big Box)",
+      "slug": "spiritual-correction-big",
+      "description": "An enterprise-grade spiritual cleansing pack. Perfect for large residences, shrines, and church complexes. A complex herbal combination specifically curated to reverse spiritual curses, negative blockages, and promote energy healing.",
+      "scentProfile": "Healing Herbs, Myrrh, Camphor, Eucalyptus",
+      "scentNotes": {
+        "top": "Crisp Eucalyptus Leaves",
+        "middle": "Pure Medicinal Camphor",
+        "base": "Healing Myrrh & Sacred Sage"
+      },
+      "burningTime": "52 mins",
+      "features": [
+        "Large capacity sticks for high smoke projection",
+        "Excellent for multi-room purification",
+        "Formulated to align cosmic vibrational energy"
+      ],
+      "shippingDetails": "Master carton of 24 deluxe boxes. Certified customer-ready.",
+      "moods": [
+        "Prayer",
+        "Meditation"
+      ],
+      "pdfPath": "The Royal Dreams details/The Royal Dreams details/Main/SPRITUAL INCENSE/SPIRITUAL FINAL CORRECTION BIG.pdf"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "Alhaji Ibrahim Danladi",
+      "role": "Chief Distributor, Kano Market",
+      "content": "The Royal Dreams has completely revolutionized our incense sales. The Royal Dreams 100-stick pack with the free perfume is a masterpiece. Customers actively queue up for Noor AL-Janna as soon as shipments arrive at the port. The packaging is absolutely world-class.",
+      "rating": 5
+    },
+    {
+      "id": "2",
+      "name": "Clara Opara",
+      "role": "Founder, Sacred Spaces Wellness Spa, Lagos",
+      "content": "The visual design and fragrance of the St Michael and Makka Madina cups create an incredible atmosphere in our spa rooms. The smoke is pure, resinous, and deeply spiritual. customer ordering and communication is highly professional and fast.",
+      "rating": 5
+    },
+    {
+      "id": "3",
+      "name": "Devendra Sharma",
+      "role": "customer customer Partner, Mumbai Trade Corp",
+      "content": "As an international import-customer partner, I appreciate their adherence to strict ISO 9001:2015 manufacturing standards. The moisture-proof boxes, delivery packaging quality, and documentation speed make The Royal Dreams our most trusted African fragrance supplier.",
+      "rating": 5
+    }
+  ],
+  "blogs": [
+    {
+      "id": "fragrance-memory",
+      "title": "Crafting Fragrance That Becomes Memory: The Art of Luxury Agarbatti",
+      "slug": "fragrance-memory-art",
+      "summary": "Discover the intricate science of aromatic blending, how top-tier sandalwood and Kashmiri saffron oils trigger visual nostalgia, and why premium packaging is vital for preserving delicate essential oils.",
+      "date": "May 25, 2026",
+      "readTime": "6 min read",
+      "author": "The Royal Dreams Team",
+      "content": "Fragrance has a unique path to the human brain. While other senses pass through the thalamus, scent travels straight to the olfactory bulb, which connects directly to the amygdala and hippocampus—the centers of emotion and memory. When you burn a stick of Royal Dreams, the notes of wild honey and Mysore sandalwood are not merely pleasant smells; they are crafting a permanent neural print that becomes a sweet memory..."
+    },
+    {
+      "id": "spiritual-smudging",
+      "title": "The Power of Benzoin (Loban) Cup Incense in Spiritual House Cleansing",
+      "slug": "loban-spiritual-house-cleansing",
+      "summary": "A deep dive into the spiritual history of sambrani resins, the science of negative ion purification, and how to perform a traditional protection ritual with St Michael and Makka Madina cups.",
+      "date": "May 18, 2026",
+      "readTime": "8 min read",
+      "author": "High-Priest Spiritual Expert",
+      "content": "For thousands of years across both Indian and African cultures, natural plant resins like Loban, Sambrani, Frankincense, and Myrrh have been burned in sacred spaces. Dhoop cups provide a heavy, concentrated smoke screen that binds to airborne particulates and negative energy fields, grounding them to the floor. In this guide, we outline the exact step-by-step layout for cleansing your household corners..."
+    },
+    {
+      "id": "natural-mosquito-repellents",
+      "title": "Eco-Conscious Protection: How Natural Citronella Combats Mosquito Vectors Safely",
+      "slug": "natural-citronella-mosquito-protection",
+      "summary": "Why chemical-heavy bug sprays degrade indoor air quality, and how Powermax's custom formulation of pyrethrins and citronella grass keeps your family safe and healthy.",
+      "date": "May 10, 2026",
+      "readTime": "5 min read",
+      "author": "Dr. Emmanuel Adebayo, Vector Health Consultant",
+      "content": "Malaria is a severe vector-borne challenge across sub-Saharan Africa. However, traditional chemical mosquito coils release dangerous formaldehyde and heavy particulate smoke. The Powermax series solves this by blending safe natural insecticide pyrethrins with zesty organic lemongrass and citronella essential oils. The result is a dual-purpose protective shield that smells like a premium spa..."
+    }
+  ],
+  "seoLandingPages": {
+    "premium-incense-sticks-nigeria": {
+      "title": "Premium Incense Sticks Nigeria | Luxury Fragrance Brand The Royal Dreams",
+      "description": "Ranked #1 premium incense sticks supplier in Nigeria. Explore our hand-rolled agarbatti range including Royal Dreams & Noor AL-Janna. customer-grade home fragrances.",
+      "header": "Nigeria's Leading Premium Incense Brand",
+      "keywords": "Premium Incense Sticks Nigeria, Luxury Agarbatti Lagos, Indian Incense Import West Africa, The Royal Dreams",
+      "content": "Welcome to The Royal Dreams, the pinnacle of luxury incense design in Nigeria. Inspired by the deep, spiritual incense burning cultures of both West Africa and India, we craft premium-quality hand-rolled agarbatti sticks that burn for over 45 minutes. Our signature collection, Royal Dreams, features pure white sandalwood blended with delicate honey notes, providing an unparalleled sensory experience. Whether you are seeking spiritual prayer alignment, relaxation, or luxurious home decoration, The Royal Dreams offers customer-ready excellence direct to your door.",
+      "faqs": [
+        {
+          "q": "Where are The Royal Dreams incense sticks manufactured?",
+          "a": "Our incense sticks are manufactured utilizing a premium fusion of Indian fragrance expertise and Nigerian cultural inspiration, ensuring strict ISO and customer-quality standards."
+        },
+        {
+          "q": "How can I purchase The Royal Dreams products in multi-pack?",
+          "a": "You can connect directly with our customer customer Desk via our 'Talk to Fragrance Expert' WhatsApp button, or email us at hello@theroyaldreams.com."
+        }
+      ]
+    },
+    "luxury-agarbatti": {
+      "title": "Luxury Agarbatti Manufacturer & manufacturer | Cinematic Spiritual Aromas",
+      "description": "Indulge in luxury agarbatti crafted with pure Mysore sandalwood, damask rose, and Cambodian Oud. Premium high-grade perfume oils for deep sensory meditation.",
+      "header": "The Alchemy of Luxury Agarbatti",
+      "keywords": "Luxury Agarbatti, Premium Incense Sticks, Mysore Sandalwood Agarbatti, Oud Incense, Spiritual Cleansing",
+      "content": "At The Royal Dreams, luxury agarbatti is not just product; it is dynamic, olfactory artwork. We source premium natural ingredients globally: pure Mysore sandalwood, delicate Damask rose petals, organic Kashmiri saffron, and heavy Cambodian Oud. Each incense stick represents hours of meticulous fragrance development, designed to burn slowly and cleanly without releasing harsh chemical smoke. Indulge in our signature collections like Noor AL-Janna and Taj Mahal, and let our cinematic fragrances elevate your daily rituals.",
+      "faqs": [
+        {
+          "q": "What makes an incense stick 'luxury'?",
+          "a": "Luxury incense is defined by the purity of its raw essential oils, the absence of toxic synthetic fillers, and robust multi-layered packaging that locks in fragrance notes for years."
+        },
+        {
+          "q": "How long do the scent notes linger after burning?",
+          "a": "Our triple-strength fragrance formulation ensures that rich base notes like sandalwood and oud linger in ventilated rooms for up to 24 hours after a single stick burns."
+        }
+      ]
+    },
+    "mosquito-repellent-incense": {
+      "title": "Natural Mosquito Repellent Incense | Powermax Chemical-Free Shield",
+      "description": "Safe, natural mosquito repellent incense sticks and cups. Powermax chain pack & zip-lock protect against malaria vectors with a pleasant citronella aroma.",
+      "header": "Premium Vector Protection: Powermax Mosquito Repellent",
+      "keywords": "Mosquito Repellent Incense, Natural Citronella Mosquito Coils, Malaria Prevention Nigeria, Powermax Insecticide Chalk",
+      "content": "Protect your home against malaria vectors without compromising your respiratory health. Traditional black mosquito coils emit high amounts of chemical carcinogens. The Royal Dreams's Powermax Mosquito Repellent Incense uses safe, natural citronella oils, wild eucalyptus, and low-smoke wood powders. Igniting a single Powermax stick provides a 60-minute active protective shield, driving away mosquitoes, flies, and gnats while leaving a fresh, therapeutic citrus scent.",
+      "faqs": [
+        {
+          "q": "Is Powermax safe to burn indoors?",
+          "a": "Yes! Powermax is designed for indoor and outdoor household use, formulated with low-smoke natural binding powders and safe citronella essential oils."
+        },
+        {
+          "q": "What is the difference between the Chain Pack and Zip Lock versions?",
+          "a": "The Zip Lock pack features an airtight resealable barrier that prevents natural oils from evaporating in hot, humid climates, while the Chain Pack is optimized for single-unit retail sales."
+        }
+      ]
+    },
+    "spiritual-products": {
+      "title": "Spiritual Products & Puja Items | Sacred Cleansing Oils & Incense",
+      "description": "Elevate your rituals with authentic spiritual products. St Michael cups, Call Money, Stop Evil, and Spiritual Correction incense to banish negativity.",
+      "header": "Sacred Spiritual Products & Purification Items",
+      "keywords": "Spiritual Products, Puja Items, Negativity Cleansing, Loban Sambrani Cups, Call Money Incense, St Michael Protection",
+      "content": "Spiritual purification is a foundational wellness ritual. Our curated collection of Spiritual Products includes high-density benzoin (loban) sambrani cups, negativity-banishing incense, and drawing chalks. Crafted under strict traditional guidelines, products like St Michael Protection Cup and Spiritual Correction Incense help clear stale environments, dispel stagnant negative vibes, and welcome abundance, peace, and sacred harmony into your household.",
+      "faqs": [
+        {
+          "q": "How do I burn a sambrani dhoop cup?",
+          "a": "Simply light the outer rim of the charcoal cup with a match or lighter, wait for it to glow red, place it on the provided metallic stand, and watch the dense sacred resins release purification smoke."
+        },
+        {
+          "q": "What are the active ingredients in Spiritual Correction Incense?",
+          "a": "It blends original healing resins, sacred camphor, eucalyptus, and organic sage leaves, designed to raise the spiritual vibrations of any room."
+        }
+      ]
+    },
+    "consumer-incense-supplier": {
+      "title": "customer Incense Supplier | Global customer Fragrance Manufacturer",
+      "description": "Premium customer customer incense supplier. Global multi-pack distribution of incense sticks, repellent coils, and cup dhoop. NAFDAC & ISO certified shipping.",
+      "header": "Global customer customer & customer Fragrance Supply",
+      "keywords": "customer Incense Supplier, multi-pack Agarbatti Manufacturer, customer Incense Distributor, NAFDAC ISO Certified manufacturer",
+      "content": "The Royal Dreams is a trusted corporate-premium partner for customer importers and distributors globally. With state-of-the-art production hubs, moisture-barrier packaging, and ISO-compliant manufacturing, we guarantee consistent quality, high-volume production, and seamless delivery shipping. We supply multi-pack retailers across West Africa, Europe, and the Middle East. Let our customer desk manage custom formulations, branding, and swift custom clearance documentation for your market.",
+      "faqs": [
+        {
+          "q": "What are your minimum customer order quantities (MOQ)?",
+          "a": "Our standard customer MOQ is 1 master pallet, but we offer special volume allocations for national and regional distributors."
+        },
+        {
+          "q": "Do you provide custom branding or private label manufacturing?",
+          "a": "Yes! We offer comprehensive private-label services, including custom package designs, tailored fragrance formulations, and customer compliance certifications."
+        }
+      ]
+    },
+    "home-fragrance-products": {
+      "title": "Luxury Home Fragrance Products | Aromatic Sandalwood & Oud",
+      "description": "Transform your living space with luxury home fragrance products. Slow-burning agarbatti, fragrant room perfumes, and sambrani dhoop cups by The Royal Dreams.",
+      "header": "Curate Your Space: Premium Home Fragrance",
+      "keywords": "Home Fragrance Products, Aromatic Room Sprays, Royal Dreams Sandalwood, Jasmine Musk Home Fragrance, Wellness Scents",
+      "content": "Your home is your sanctuary. Curating its scent is as essential as its visual decor. The Royal Dreams's Home Fragrance collection blends rich heritage ingredients with modern aromatic styles. From slow-burning sandalwood agarbatti to instant-freshness room perfumes included in our Royal Dreams deluxe kits, we give you the tools to craft distinct emotional atmospheres. Set a calm, peaceful mood for sleep with Royal Lavender, or welcome guests with the romance of Taj Mahal Jasmine.",
+      "faqs": [
+        {
+          "q": "Why should I choose incense over synthetic aerosol sprays?",
+          "a": "Incense releases natural wood oils and aromatic resins slowly, creating a deep, lasting woodsy warmth that purifies the air rather than masking odors with chemical perfumes."
+        },
+        {
+          "q": "Are your home fragrance oils eco-conscious?",
+          "a": "Absolutely. All our fragrances utilize sustainable organic carriers, pure botanical oils, and are completely cruelty-free."
+        }
+      ]
+    },
+    "premium-cup-incense": {
+      "title": "Premium Cup Incense Sambrani | Guggul & Loban Sacred Dhoop",
+      "description": "Original sambrani dhoop cups for meditation. Densely packed with benzoin loban, Peacock, Sai Baba, and Radha Krishna cup incense from The Royal Dreams.",
+      "header": "Pure Resinous Smudging: Premium Cup Incense",
+      "keywords": "Premium Cup Incense, Sambrani Charcoal Cups, Loban Benzoin Dhoop, Guggul Spiritual Smudging, Radha Krishna Cup",
+      "content": "Cup incense represents the most authentic form of ancient resin smudging. Unlike standard incense sticks, a Sambrani Cup utilizes a hollowed natural charcoal base filled with raw, dry resin tears. When ignited, the charcoal heats the resin, releasing thick, dense, deeply sacred clouds of pure loban and frankincense. Experience the intense air purification of Holly Ure and Peacock, perfect for deep yoga, spiritual cleansing, or creating an aromatic wellness sanctuary.",
+      "faqs": [
+        {
+          "q": "How long does a cup incense burn?",
+          "a": "A cup burns intensely for approximately 25 to 30 minutes, but the pure resin smoke continues to scent and purify the atmosphere for many hours afterward."
+        },
+        {
+          "q": "Is a burner plate included in the box?",
+          "a": "Yes! Every single pack of The Royal Dreams Premium Cup Incense includes a dedicated metal burner plate to ensure safety and stability."
+        }
+      ]
+    }
+  }
+}
